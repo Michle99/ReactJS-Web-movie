@@ -1,0 +1,33 @@
+.App-header {
+  background-color: #b5c2dd; 
+  min-height: 100vh;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(49, 30, 30);
+} 
+
+.App-link {
+  color: #61dafb;
+}
+
+.center {
+  margin-left: 20px;
+}
+
+/* .headCenter {
+  border: 5px outset rgb(134, 115, 201);
+  background-color: #8e9199;
+  text-align: center;
+}
+
+.cardStyle {
+  border-color: rebeccapurple;
+  border-style: double;
+  margin-bottom: 5px;
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-top: 2px;
+  background-color: rgb(185, 169, 148);
+} */
